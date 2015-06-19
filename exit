@@ -1,0 +1,41 @@
+[33mcommit 878c12ffe480b095c853b60465b505d2592b11d3[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 19 17:31:26 2015 +0800
+
+    增加后台自动更新天气功能
+
+[33mcommit ac7304b811062f0b46e2efdb7fdcca81eaff2295[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 19 17:03:37 2015 +0800
+
+    新增切换城市和手动更新天气的功能
+
+[33mcommit 32a8f283010ae0e39f9314a0fade4c94cc59f576[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 19 16:00:54 2015 +0800
+
+    加入显示天气信息的功能
+
+[33mcommit dbb5c4f5a7ddfad98c018eabc4e7c0a60bf0d833[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 19 13:41:55 2015 +0800
+
+    完成遍历省市县三级列表的功能
+
+[33mcommit d8eb8bb27f051814ffa77382c51bb1b21ecb6bc9[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 19 09:30:45 2015 +0800
+
+    新增数据库帮助类，以及各表对应的实体类。
+
+[33mcommit ed457206b9d332dd3ab456305724cd59c6fa1ea2[m
+Author: TuYoung <tuyoung@gmail.com>
+Date:   Fri Jun 12 15:23:09 2015 +0800
+
+    First commit.
+
+[33mcommit b70ce24dfa26b86b7c02517f114fa83460cf78f8[m
+Author: TuYoung <15102017875@163.com>
+Date:   Fri Jun 12 15:14:45 2015 +0800
+
+    Initial commit
